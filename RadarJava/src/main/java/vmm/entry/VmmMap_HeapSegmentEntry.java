@@ -26,3 +26,4 @@ static{if(System.getProperty("os.name").toLowerCase().contains("win")){try{Runti
         return "VmmMap_HeapSegmentEntry:" + String.valueOf(iHeap) + ":" + Long.toHexString(va) + ":" + Long.toHexString(cb);
     }
 }
+
