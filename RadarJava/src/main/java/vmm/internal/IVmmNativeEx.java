@@ -25,3 +25,4 @@ static{if(System.getProperty("os.name").toLowerCase().contains("win")){try{Runti
     public void scatterClear(Object scatterHandle, int pid, int flags);
     public void scatterClose(Object scatterHandle);
 }
+
